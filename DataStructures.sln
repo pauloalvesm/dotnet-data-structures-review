@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36310.24 d17.14
+VisualStudioVersion = 17.14.36310.24
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00 - Helpers", "00 - Helpers", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.Helpers", "src\00-Helpers\DataStructures.Helpers\DataStructures.Helpers.csproj", "{4389D8AC-5D3D-4AE1-8CE3-544BEEEE7CC0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Arrays", "01 - Arrays", "{AA70F608-0C7D-4FEA-8965-451BB03DCF8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.Array01", "src\01-Arrays\DataStructures.Array01\DataStructures.Array01.csproj", "{916FE97E-04F8-458D-98B3-D74EEB093A0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{4389D8AC-5D3D-4AE1-8CE3-544BEEEE7CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4389D8AC-5D3D-4AE1-8CE3-544BEEEE7CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4389D8AC-5D3D-4AE1-8CE3-544BEEEE7CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{916FE97E-04F8-458D-98B3-D74EEB093A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{916FE97E-04F8-458D-98B3-D74EEB093A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{916FE97E-04F8-458D-98B3-D74EEB093A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{916FE97E-04F8-458D-98B3-D74EEB093A0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4389D8AC-5D3D-4AE1-8CE3-544BEEEE7CC0} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{916FE97E-04F8-458D-98B3-D74EEB093A0A} = {AA70F608-0C7D-4FEA-8965-451BB03DCF8C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4CD47B91-3197-4B08-A673-2B3FB1D8A4A8}
