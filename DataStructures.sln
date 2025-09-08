@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.Matrix01", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.Matrix02", "src\02-Matrices\DataStructures.Matrix02\DataStructures.Matrix02.csproj", "{85030DA3-E503-4686-8DE0-E081F214C658}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.Matrix03", "src\02-Matrices\DataStructures.Matrix03\DataStructures.Matrix03.csproj", "{D826D677-5F7E-441D-9D62-EBFAD5337A17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{85030DA3-E503-4686-8DE0-E081F214C658}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85030DA3-E503-4686-8DE0-E081F214C658}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85030DA3-E503-4686-8DE0-E081F214C658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D826D677-5F7E-441D-9D62-EBFAD5337A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D826D677-5F7E-441D-9D62-EBFAD5337A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D826D677-5F7E-441D-9D62-EBFAD5337A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D826D677-5F7E-441D-9D62-EBFAD5337A17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -62,6 +68,7 @@ Global
 		{8A280A2A-B44F-4C9D-A440-D9CC409D061F} = {AA70F608-0C7D-4FEA-8965-451BB03DCF8C}
 		{559B41BD-8BA2-4D85-B236-D09784F8EB74} = {29D67AFB-AF51-4073-8ABC-B1EE7B122FCF}
 		{85030DA3-E503-4686-8DE0-E081F214C658} = {29D67AFB-AF51-4073-8ABC-B1EE7B122FCF}
+		{D826D677-5F7E-441D-9D62-EBFAD5337A17} = {29D67AFB-AF51-4073-8ABC-B1EE7B122FCF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4CD47B91-3197-4B08-A673-2B3FB1D8A4A8}
