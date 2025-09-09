@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.LinearSearch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.BinarySearch01", "src\03-Linear-Binary-Searches\DataStructures.BinarySearch01\DataStructures.BinarySearch01.csproj", "{FB08FA89-B7D1-474A-A822-D86E73690EE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.BinarySearch02", "src\03-Linear-Binary-Searches\DataStructures.BinarySearch02\DataStructures.BinarySearch02.csproj", "{39170432-666E-4DB1-A5B7-68A87E0A854D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{FB08FA89-B7D1-474A-A822-D86E73690EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB08FA89-B7D1-474A-A822-D86E73690EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB08FA89-B7D1-474A-A822-D86E73690EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39170432-666E-4DB1-A5B7-68A87E0A854D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39170432-666E-4DB1-A5B7-68A87E0A854D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39170432-666E-4DB1-A5B7-68A87E0A854D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39170432-666E-4DB1-A5B7-68A87E0A854D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -92,6 +98,7 @@ Global
 		{D4AB99B8-EA58-46A0-9924-A69E12A3921D} = {89D5373C-051C-49EB-97AE-7F290F125ECA}
 		{299060BA-1E80-4FD4-8E18-CC5A46EDBD08} = {89D5373C-051C-49EB-97AE-7F290F125ECA}
 		{FB08FA89-B7D1-474A-A822-D86E73690EE7} = {89D5373C-051C-49EB-97AE-7F290F125ECA}
+		{39170432-666E-4DB1-A5B7-68A87E0A854D} = {89D5373C-051C-49EB-97AE-7F290F125ECA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4CD47B91-3197-4B08-A673-2B3FB1D8A4A8}
