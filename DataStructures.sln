@@ -23,6 +23,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.Matrix02", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.Matrix03", "src\02-Matrices\DataStructures.Matrix03\DataStructures.Matrix03.csproj", "{D826D677-5F7E-441D-9D62-EBFAD5337A17}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Linear Binary Searches", "03 - Linear Binary Searches", "{89D5373C-051C-49EB-97AE-7F290F125ECA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.LinearSearch01", "src\03-Linear-Binary-Searches\DataStructures.LinearSearch01\DataStructures.LinearSearch01.csproj", "{D4AB99B8-EA58-46A0-9924-A69E12A3921D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.LinearSearch02", "src\03-Linear-Binary-Searches\DataStructures.LinearSearch02\DataStructures.LinearSearch02.csproj", "{299060BA-1E80-4FD4-8E18-CC5A46EDBD08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.BinarySearch01", "src\03-Linear-Binary-Searches\DataStructures.BinarySearch01\DataStructures.BinarySearch01.csproj", "{FB08FA89-B7D1-474A-A822-D86E73690EE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.BinarySearch02", "src\03-Linear-Binary-Searches\DataStructures.BinarySearch02\DataStructures.BinarySearch02.csproj", "{39170432-666E-4DB1-A5B7-68A87E0A854D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +67,22 @@ Global
 		{D826D677-5F7E-441D-9D62-EBFAD5337A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D826D677-5F7E-441D-9D62-EBFAD5337A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D826D677-5F7E-441D-9D62-EBFAD5337A17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4AB99B8-EA58-46A0-9924-A69E12A3921D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4AB99B8-EA58-46A0-9924-A69E12A3921D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4AB99B8-EA58-46A0-9924-A69E12A3921D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4AB99B8-EA58-46A0-9924-A69E12A3921D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{299060BA-1E80-4FD4-8E18-CC5A46EDBD08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299060BA-1E80-4FD4-8E18-CC5A46EDBD08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299060BA-1E80-4FD4-8E18-CC5A46EDBD08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299060BA-1E80-4FD4-8E18-CC5A46EDBD08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB08FA89-B7D1-474A-A822-D86E73690EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB08FA89-B7D1-474A-A822-D86E73690EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB08FA89-B7D1-474A-A822-D86E73690EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB08FA89-B7D1-474A-A822-D86E73690EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39170432-666E-4DB1-A5B7-68A87E0A854D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39170432-666E-4DB1-A5B7-68A87E0A854D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39170432-666E-4DB1-A5B7-68A87E0A854D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39170432-666E-4DB1-A5B7-68A87E0A854D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -69,6 +95,10 @@ Global
 		{559B41BD-8BA2-4D85-B236-D09784F8EB74} = {29D67AFB-AF51-4073-8ABC-B1EE7B122FCF}
 		{85030DA3-E503-4686-8DE0-E081F214C658} = {29D67AFB-AF51-4073-8ABC-B1EE7B122FCF}
 		{D826D677-5F7E-441D-9D62-EBFAD5337A17} = {29D67AFB-AF51-4073-8ABC-B1EE7B122FCF}
+		{D4AB99B8-EA58-46A0-9924-A69E12A3921D} = {89D5373C-051C-49EB-97AE-7F290F125ECA}
+		{299060BA-1E80-4FD4-8E18-CC5A46EDBD08} = {89D5373C-051C-49EB-97AE-7F290F125ECA}
+		{FB08FA89-B7D1-474A-A822-D86E73690EE7} = {89D5373C-051C-49EB-97AE-7F290F125ECA}
+		{39170432-666E-4DB1-A5B7-68A87E0A854D} = {89D5373C-051C-49EB-97AE-7F290F125ECA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4CD47B91-3197-4B08-A673-2B3FB1D8A4A8}
