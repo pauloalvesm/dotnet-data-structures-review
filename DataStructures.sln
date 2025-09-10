@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.BinarySearch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.BinarySearch02", "src\03-Linear-Binary-Searches\DataStructures.BinarySearch02\DataStructures.BinarySearch02.csproj", "{39170432-666E-4DB1-A5B7-68A87E0A854D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - Sorting-Algorithms", "04 - Sorting-Algorithms", "{E333A97B-0C94-4E48-9476-966D8DC34070}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.BubbleSort01", "src\04-Sorting-Algorithms\DataStructures.BubbleSort01\DataStructures.BubbleSort01.csproj", "{CE785F36-580F-4FCD-8C10-9FEB338B80E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +87,10 @@ Global
 		{39170432-666E-4DB1-A5B7-68A87E0A854D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39170432-666E-4DB1-A5B7-68A87E0A854D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39170432-666E-4DB1-A5B7-68A87E0A854D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE785F36-580F-4FCD-8C10-9FEB338B80E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE785F36-580F-4FCD-8C10-9FEB338B80E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE785F36-580F-4FCD-8C10-9FEB338B80E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE785F36-580F-4FCD-8C10-9FEB338B80E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -99,6 +107,7 @@ Global
 		{299060BA-1E80-4FD4-8E18-CC5A46EDBD08} = {89D5373C-051C-49EB-97AE-7F290F125ECA}
 		{FB08FA89-B7D1-474A-A822-D86E73690EE7} = {89D5373C-051C-49EB-97AE-7F290F125ECA}
 		{39170432-666E-4DB1-A5B7-68A87E0A854D} = {89D5373C-051C-49EB-97AE-7F290F125ECA}
+		{CE785F36-580F-4FCD-8C10-9FEB338B80E2} = {E333A97B-0C94-4E48-9476-966D8DC34070}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4CD47B91-3197-4B08-A673-2B3FB1D8A4A8}
