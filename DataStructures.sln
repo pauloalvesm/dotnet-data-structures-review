@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.HeapSort01",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.QuickSort01", "src\04-Sorting-Algorithms\DataStructures.QuickSort01\DataStructures.QuickSort01.csproj", "{3B00B55E-AEF5-4311-82A7-F100289539FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.MergeSort01", "src\04-Sorting-Algorithms\DataStructures.MergeSort01\DataStructures.MergeSort01.csproj", "{10125775-1F27-4502-AAAF-FE58A7BD0B5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -121,6 +123,10 @@ Global
 		{3B00B55E-AEF5-4311-82A7-F100289539FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B00B55E-AEF5-4311-82A7-F100289539FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B00B55E-AEF5-4311-82A7-F100289539FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10125775-1F27-4502-AAAF-FE58A7BD0B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10125775-1F27-4502-AAAF-FE58A7BD0B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10125775-1F27-4502-AAAF-FE58A7BD0B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10125775-1F27-4502-AAAF-FE58A7BD0B5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -143,6 +149,7 @@ Global
 		{980AFBF4-C59C-486A-9D31-EC0A007D01C7} = {E333A97B-0C94-4E48-9476-966D8DC34070}
 		{1ACFECD9-D60D-47C1-AC70-D329717C99FF} = {E333A97B-0C94-4E48-9476-966D8DC34070}
 		{3B00B55E-AEF5-4311-82A7-F100289539FA} = {E333A97B-0C94-4E48-9476-966D8DC34070}
+		{10125775-1F27-4502-AAAF-FE58A7BD0B5F} = {E333A97B-0C94-4E48-9476-966D8DC34070}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4CD47B91-3197-4B08-A673-2B3FB1D8A4A8}
