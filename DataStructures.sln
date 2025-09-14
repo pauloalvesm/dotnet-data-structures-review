@@ -53,6 +53,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 - Stacks-Queues", "05 - 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.Queue01", "src\05-Stacks-Queues\DataStructures.Queue01\DataStructures.Queue01.csproj", "{75C9BDEB-18EE-442F-9203-9AE341B0C325}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.Queue02", "src\05-Stacks-Queues\DataStructures.Queue02\DataStructures.Queue02.csproj", "{B0F1CB49-63FD-4334-BEA2-A595DDBE20DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{75C9BDEB-18EE-442F-9203-9AE341B0C325}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75C9BDEB-18EE-442F-9203-9AE341B0C325}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75C9BDEB-18EE-442F-9203-9AE341B0C325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0F1CB49-63FD-4334-BEA2-A595DDBE20DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F1CB49-63FD-4334-BEA2-A595DDBE20DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F1CB49-63FD-4334-BEA2-A595DDBE20DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F1CB49-63FD-4334-BEA2-A595DDBE20DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -159,6 +165,7 @@ Global
 		{3B00B55E-AEF5-4311-82A7-F100289539FA} = {E333A97B-0C94-4E48-9476-966D8DC34070}
 		{10125775-1F27-4502-AAAF-FE58A7BD0B5F} = {E333A97B-0C94-4E48-9476-966D8DC34070}
 		{75C9BDEB-18EE-442F-9203-9AE341B0C325} = {62E0C53E-90AF-49FA-9F6F-C2D349456569}
+		{B0F1CB49-63FD-4334-BEA2-A595DDBE20DB} = {62E0C53E-90AF-49FA-9F6F-C2D349456569}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4CD47B91-3197-4B08-A673-2B3FB1D8A4A8}
