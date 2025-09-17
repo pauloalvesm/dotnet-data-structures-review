@@ -7,7 +7,20 @@
 
 ## 💻 Project
 
-Repository with Console Application for reviewing data structures.
+Repository with a `C#` console application for reviewing data structures in the `.NET` environment.
+
+## ℹ️ Note 
+
+This project may undergo various changes as time goes on!
+
+## 🌎 Exercise Links
+
+- [Arrays](https://github.com/pauloalvesm/dotnet-data-structures-review/tree/master/src/01-Arrays)
+- [Matrices](https://github.com/pauloalvesm/dotnet-data-structures-review/tree/master/src/02-Matrices)
+- [Linear and Binary Searches](https://github.com/pauloalvesm/dotnet-data-structures-review/tree/master/src/03-Linear-Binary-Searches)
+- [Sorting Algorithms](https://github.com/pauloalvesm/dotnet-data-structures-review/tree/master/src/04-Sorting-Algorithms)
+- [Stack and Queue](https://github.com/pauloalvesm/dotnet-data-structures-review/tree/master/src/05-Stacks-Queues)
+- [Tree](https://github.com/pauloalvesm/dotnet-data-structures-review/tree/master/src/06-Trees/DataStructures.BinaryTree01)
 
 ## 🚀 Technologies and Tools
 
